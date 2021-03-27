@@ -1,4 +1,4 @@
-**RShiny - Map data visualisation project :**
+**Bokeh - Stock evolution visualisation project :**
 ___
 This project is a simple implementation of a _bokeh_ application that displays the stock market values and some sentiment analysis reports from twitter-fetched data using the _tweepy_ library.
 
